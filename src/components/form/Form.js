@@ -22,7 +22,7 @@ const CustomForm = ({ info, setInfo, handleFormSubmit }) => {
         <div className="ui piled segments">
           <div className="ui segment brand">
             <a
-              href="https://github.com/clarusway"
+              href="https://github.com/sofiadurkan1"
               className="design"
               target="_blank"
               rel="noopener noreferrer"
