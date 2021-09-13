@@ -27,7 +27,7 @@ const CustomForm = ({ info, setInfo, handleFormSubmit }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <code>{'<Clarusway/> '}</code>
+              <code>{"<Sofia's/> "}</code>
             </a>
             <span className="design header">design</span>
           </div>
